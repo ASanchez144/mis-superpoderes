@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T08:08:20.870Z",
+  "generatedAt": "2026-02-04T11:22:01.676Z",
   "aliases": {
     "accessibility-compliance-audit": "accessibility-compliance-accessibility-audit",
     "active directory attacks": "active-directory-attacks",
@@ -108,6 +108,7 @@
     "security-scanning-hardening": "security-scanning-security-hardening",
     "security-scanning-sast": "security-scanning-security-sast",
     "shodan reconnaissance and pentesting": "shodan-reconnaissance",
+    "skill manager": "SkillManager",
     "smtp penetration testing": "smtp-penetration-testing",
     "sql injection testing": "sql-injection-testing",
     "sqlmap database penetration testing": "sqlmap-database-pentesting",

@@ -4635,6 +4635,15 @@
     "source": "unknown"
   },
   {
+    "id": "SkillManager",
+    "path": "skills/SkillManager",
+    "category": "uncategorized",
+    "name": "Skill Manager",
+    "description": "A meta-skill that allows you to dynamically discover and install other specialized skills from the mis-superpoderes repository.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "skill-creator",
     "path": "skills/skill-creator",
     "category": "uncategorized",
@@ -4887,6 +4896,60 @@
     "source": "unknown"
   },
   {
+    "id": "superpowers-brainstorm",
+    "path": "skills/superpowers-brainstorm",
+    "category": "uncategorized",
+    "name": "Superpowers Brainstorm",
+    "description": "- before implementing non-trivial features - before refactors with unclear scope - before debugging complex issues - before designing an automation workflow",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "superpowers-debug",
+    "path": "skills/superpowers-debug",
+    "category": "uncategorized",
+    "name": "Superpowers Debug",
+    "description": "- runtime errors, flaky tests, wrong outputs - \u201cit used to work\u201d regressions - performance or timeout problems (initial triage)",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "superpowers-finish",
+    "path": "skills/superpowers-finish",
+    "category": "uncategorized",
+    "name": "Superpowers Finish",
+    "description": "- at the end of any non-trivial change set - after a bug fix or feature is implemented - before handing off work to a teammate/user",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "superpowers-python-automation",
+    "path": "skills/superpowers-python-automation",
+    "category": "uncategorized",
+    "name": "Superpowers Python Automation",
+    "description": "This skill provides concrete Python patterns to implement robust REST API automations.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "superpowers-rest-automation",
+    "path": "skills/superpowers-rest-automation",
+    "category": "uncategorized",
+    "name": "Superpowers Rest Automation",
+    "description": "This skill enforces reliability and safety when building automations that call REST APIs.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "superpowers-workflow",
+    "path": "skills/superpowers-workflow",
+    "category": "uncategorized",
+    "name": "Superpowers Workflow",
+    "description": "This skill defines the default operating procedure for software and automation tasks.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
     "id": "superpowers-lab",
     "path": "skills/superpowers-lab",
     "category": "uncategorized",
@@ -4894,6 +4957,33 @@
     "description": "Lab environment for Claude superpowers",
     "risk": "safe",
     "source": "https://github.com/obra/superpowers-lab"
+  },
+  {
+    "id": "superpowers-plan",
+    "path": "skills/superpowers-plan",
+    "category": "uncategorized",
+    "name": "superpowers-plan",
+    "description": "Writes an implementation plan with small steps, exact files to touch, and verification commands. Use before making non-trivial changes.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "superpowers-review",
+    "path": "skills/superpowers-review",
+    "category": "uncategorized",
+    "name": "superpowers-review",
+    "description": "Reviews changes for correctness, edge cases, style, security, and maintainability with severity levels (Blocker/Major/Minor/Nit). Use before finalizing changes.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "superpowers-tdd",
+    "path": "skills/superpowers-tdd",
+    "category": "uncategorized",
+    "name": "superpowers-tdd",
+    "description": "Applies tests-first discipline (red/green/refactor) and adds regression tests for bugs. Use when implementing features, fixing bugs, or refactoring.",
+    "risk": "unknown",
+    "source": "unknown"
   },
   {
     "id": "swiftui-expert-skill",

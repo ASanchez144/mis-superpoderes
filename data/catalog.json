@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-04T08:08:20.870Z",
-  "total": 631,
+  "generatedAt": "2026-02-04T11:22:01.676Z",
+  "total": 641,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -12764,6 +12764,30 @@
       "path": "skills/skill-seekers/SKILL.md"
     },
     {
+      "id": "SkillManager",
+      "name": "Skill Manager",
+      "description": "A meta-skill that allows you to dynamically discover and install other specialized skills from the mis-superpoderes repository.",
+      "category": "general",
+      "tags": [
+        "skillmanager"
+      ],
+      "triggers": [
+        "skillmanager",
+        "skill",
+        "manager",
+        "meta",
+        "allows",
+        "dynamically",
+        "discover",
+        "install",
+        "other",
+        "specialized",
+        "skills",
+        "mis"
+      ],
+      "path": "skills/SkillManager/SKILL.md"
+    },
+    {
       "id": "slack-bot-builder",
       "name": "slack-bot-builder",
       "description": "Build Slack apps using the Bolt framework across Python, JavaScript, and Java. Covers Block Kit for rich UIs, interactive components, slash commands, event handling, OAuth installation flows, and Workflow Builder integration. Focus on best practices for production-ready Slack apps. Use when: slack bot, slack app, bolt framework, block kit, slash command.",
@@ -13343,6 +13367,51 @@
       "path": "skills/subagent-driven-development/SKILL.md"
     },
     {
+      "id": "superpowers-brainstorm",
+      "name": "superpowers-brainstorm",
+      "description": "",
+      "category": "general",
+      "tags": [
+        "superpowers",
+        "brainstorm"
+      ],
+      "triggers": [
+        "superpowers",
+        "brainstorm"
+      ],
+      "path": "skills/superpowers-brainstorm/SKILL.md"
+    },
+    {
+      "id": "superpowers-debug",
+      "name": "superpowers-debug",
+      "description": "",
+      "category": "general",
+      "tags": [
+        "superpowers",
+        "debug"
+      ],
+      "triggers": [
+        "superpowers",
+        "debug"
+      ],
+      "path": "skills/superpowers-debug/SKILL.md"
+    },
+    {
+      "id": "superpowers-finish",
+      "name": "superpowers-finish",
+      "description": "",
+      "category": "general",
+      "tags": [
+        "superpowers",
+        "finish"
+      ],
+      "triggers": [
+        "superpowers",
+        "finish"
+      ],
+      "path": "skills/superpowers-finish/SKILL.md"
+    },
+    {
       "id": "superpowers-lab",
       "name": "superpowers-lab",
       "description": "Lab environment for Claude superpowers",
@@ -13358,6 +13427,125 @@
         "claude"
       ],
       "path": "skills/superpowers-lab/SKILL.md"
+    },
+    {
+      "id": "superpowers-plan",
+      "name": "superpowers-plan",
+      "description": "Writes an implementation plan with small steps, exact files to touch, and verification commands. Use before making non-trivial changes.",
+      "category": "general",
+      "tags": [
+        "superpowers",
+        "plan"
+      ],
+      "triggers": [
+        "superpowers",
+        "plan",
+        "writes",
+        "small",
+        "steps",
+        "exact",
+        "files",
+        "touch",
+        "verification",
+        "commands",
+        "before",
+        "making"
+      ],
+      "path": "skills/superpowers-plan/SKILL.md"
+    },
+    {
+      "id": "superpowers-python-automation",
+      "name": "superpowers-python-automation",
+      "description": "",
+      "category": "development",
+      "tags": [
+        "superpowers",
+        "python"
+      ],
+      "triggers": [
+        "superpowers",
+        "python",
+        "automation"
+      ],
+      "path": "skills/superpowers-python-automation/SKILL.md"
+    },
+    {
+      "id": "superpowers-rest-automation",
+      "name": "superpowers-rest-automation",
+      "description": "",
+      "category": "workflow",
+      "tags": [
+        "superpowers",
+        "rest"
+      ],
+      "triggers": [
+        "superpowers",
+        "rest",
+        "automation"
+      ],
+      "path": "skills/superpowers-rest-automation/SKILL.md"
+    },
+    {
+      "id": "superpowers-review",
+      "name": "superpowers-review",
+      "description": "Reviews changes for correctness, edge cases, style, security, and maintainability with severity levels (Blocker/Major/Minor/Nit). Use before finalizing changes.",
+      "category": "security",
+      "tags": [
+        "superpowers"
+      ],
+      "triggers": [
+        "superpowers",
+        "review",
+        "reviews",
+        "changes",
+        "correctness",
+        "edge",
+        "cases",
+        "style",
+        "security",
+        "maintainability",
+        "severity",
+        "levels"
+      ],
+      "path": "skills/superpowers-review/SKILL.md"
+    },
+    {
+      "id": "superpowers-tdd",
+      "name": "superpowers-tdd",
+      "description": "Applies tests-first discipline (red/green/refactor) and adds regression tests for bugs. Use when implementing features, fixing bugs, or refactoring.",
+      "category": "testing",
+      "tags": [
+        "superpowers",
+        "tdd"
+      ],
+      "triggers": [
+        "superpowers",
+        "tdd",
+        "applies",
+        "tests",
+        "first",
+        "discipline",
+        "red",
+        "green",
+        "refactor",
+        "adds",
+        "regression",
+        "bugs"
+      ],
+      "path": "skills/superpowers-tdd/SKILL.md"
+    },
+    {
+      "id": "superpowers-workflow",
+      "name": "superpowers-workflow",
+      "description": "",
+      "category": "workflow",
+      "tags": [
+        "superpowers"
+      ],
+      "triggers": [
+        "superpowers"
+      ],
+      "path": "skills/superpowers-workflow/SKILL.md"
     },
     {
       "id": "swiftui-expert-skill",

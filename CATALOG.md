@@ -1,8 +1,8 @@
 # Skill Catalog
 
-Generated at: 2026-02-04T08:08:20.870Z
+Generated at: 2026-02-04T11:22:01.676Z
 
-Total skills: 631
+Total skills: 641
 
 ## architecture (62)
 
@@ -211,7 +211,7 @@ Total skills: 631
 | `web-artifacts-builder` | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use ... | web, artifacts, builder | web, artifacts, builder, suite, creating, elaborate, multi, component, claude, ai, html, frontend |
 | `xlsx-official` | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work ... | xlsx, official | xlsx, official, spreadsheet, creation, editing, analysis, formulas, formatting, data, visualization, claude, work |
 
-## development (81)
+## development (82)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -285,6 +285,7 @@ Total skills: 631
 | `shopify-development` | Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
 TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify, development, apps, extensions, themes, graphql, admin, api, cli, polaris, ui, liquid |
 | `slack-bot-builder` | Build Slack apps using the Bolt framework across Python, JavaScript, and Java. Covers Block Kit for rich UIs, interactive components, slash commands, event h... | slack, bot, builder | slack, bot, builder, apps, bolt, framework, python, javascript, java, covers, block, kit |
+| `superpowers-python-automation` |  | superpowers, python | superpowers, python, automation |
 | `swiftui-expert-skill` | Write, review, or improve SwiftUI code following best practices for state management, view composition, performance, modern APIs, Swift concurrency, and iOS ... | swiftui, skill | swiftui, skill, write, review, improve, code, following, state, view, composition, performance, apis |
 | `systems-programming-rust-project` | You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo to... | programming, rust | programming, rust, architecture, specializing, scaffolding, applications, generate, complete, structures, cargo, tooling, proper |
 | `tavily-web` | Web search, content extraction, crawling, and research capabilities using Tavily API | tavily, web | tavily, web, search, content, extraction, crawling, research, capabilities, api |
@@ -298,7 +299,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `viral-generator-builder` | Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers t... | viral, generator, builder | viral, generator, builder, building, shareable, go, name, generators, quiz, makers, avatar, creators |
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 
-## general (129)
+## general (134)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -411,10 +412,15 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `signup-flow-cro` | When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions "signup conversions," "reg... | signup, flow, cro | signup, flow, cro, user, wants, optimize, registration, account, creation, trial, activation, flows |
 | `skill-creator` | Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capa... | skill, creator | skill, creator, creating, effective, skills, should, used, users, want, new, update, existing |
 | `skill-rails-upgrade` | Analyze Rails apps and provide upgrade assessments | skill, rails, upgrade | skill, rails, upgrade, analyze, apps, provide, assessments |
+| `SkillManager` | A meta-skill that allows you to dynamically discover and install other specialized skills from the mis-superpoderes repository. | skillmanager | skillmanager, skill, manager, meta, allows, dynamically, discover, install, other, specialized, skills, mis |
 | `slack-gif-creator` | Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users reques... | slack, gif, creator | slack, gif, creator, knowledge, utilities, creating, animated, gifs, optimized, provides, constraints, validation |
 | `social-content` | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. A... | social, content | social, content, user, wants, creating, scheduling, optimizing, media, linkedin, twitter, instagram, tiktok |
 | `subagent-driven-development` | Use when executing implementation plans with independent tasks in the current session | subagent, driven | subagent, driven, development, executing, plans, independent, tasks, current, session |
+| `superpowers-brainstorm` |  | superpowers, brainstorm | superpowers, brainstorm |
+| `superpowers-debug` |  | superpowers, debug | superpowers, debug |
+| `superpowers-finish` |  | superpowers, finish | superpowers, finish |
 | `superpowers-lab` | Lab environment for Claude superpowers | superpowers, lab | superpowers, lab, environment, claude |
+| `superpowers-plan` | Writes an implementation plan with small steps, exact files to touch, and verification commands. Use before making non-trivial changes. | superpowers, plan | superpowers, plan, writes, small, steps, exact, files, touch, verification, commands, before, making |
 | `theme-factory` | Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors... | theme, factory | theme, factory, toolkit, styling, artifacts, these, slides, docs, reportings, html, landing, pages |
 | `threejs-skills` | Three.js skills for creating 3D elements and interactive experiences | threejs, skills | threejs, skills, three, js, creating, 3d, elements, interactive, experiences |
 | `turborepo-caching` | Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing d... | turborepo, caching | turborepo, caching, configure, efficient, monorepo, local, remote, setting, up, optimizing, pipelines, implementing |
@@ -516,7 +522,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `wireshark-analysis` | This skill should be used when the user asks to "analyze network traffic with Wireshark", "capture packets for troubleshooting", "filter PCAP files", "follow... | wireshark | wireshark, network, traffic, analysis, skill, should, used, user, asks, analyze, capture, packets |
 | `workflow-automation` | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost... |  | automation, infrastructure, makes, ai, agents, reliable, without, durable, execution, network, hiccup, during |
 
-## security (112)
+## security (113)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -620,6 +626,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `ssh-penetration-testing` | This skill should be used when the user asks to "pentest SSH services", "enumerate SSH configurations", "brute force SSH credentials", "exploit SSH vulnerabi... | ssh, penetration | ssh, penetration, testing, skill, should, used, user, asks, pentest, enumerate, configurations, brute |
 | `stride-analysis-patterns` | Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security do... | stride | stride, analysis, apply, methodology, systematically, identify, threats, analyzing, security, conducting, threat, modeling |
 | `stripe-integration` | Implement Stripe payment processing for robust, PCI-compliant payment flows including checkout, subscriptions, and webhooks. Use when integrating Stripe paym... | stripe, integration | stripe, integration, payment, processing, robust, pci, compliant, flows, including, checkout, subscriptions, webhooks |
+| `superpowers-review` | Reviews changes for correctness, edge cases, style, security, and maintainability with severity levels (Blocker/Major/Minor/Nit). Use before finalizing changes. | superpowers | superpowers, review, reviews, changes, correctness, edge, cases, style, security, maintainability, severity, levels |
 | `terraform-specialist` | Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns. Handles complex module desi... | terraform | terraform, opentofu, mastering, iac, automation, state, enterprise, infrastructure, complex, module, multi, cloud |
 | `threat-mitigation-mapping` | Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validatin... | threat, mitigation, mapping | threat, mitigation, mapping, map, identified, threats, appropriate, security, controls, mitigations, prioritizing, investments |
 | `threat-modeling-expert` | Expert in threat modeling methodologies, security architecture review, and risk assessment. Masters STRIDE, PASTA, attack trees, and security requirement ext... | threat, modeling | threat, modeling, methodologies, security, architecture, review, risk, assessment, masters, stride, pasta, attack |
@@ -633,7 +640,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `wordpress-penetration-testing` | This skill should be used when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugi... | wordpress, penetration | wordpress, penetration, testing, skill, should, used, user, asks, pentest, sites, scan, vulnerabilities |
 | `xss-html-injection` | This skill should be used when the user asks to "test for XSS vulnerabilities", "perform cross-site scripting attacks", "identify HTML injection flaws", "exp... | xss, html, injection | xss, html, injection, cross, site, scripting, testing, skill, should, used, user, asks |
 
-## testing (22)
+## testing (23)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -649,6 +656,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `screen-reader-testing` | Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating screen reader compatibility, debugging accessibility issue... | screen, reader | screen, reader, testing, test, web, applications, readers, including, voiceover, nvda, jaws, validating |
 | `startup-analyst` | Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies. Us... | startup, analyst | startup, analyst, business, specializing, market, sizing, financial, modeling, competitive, analysis, strategic, planning |
 | `startup-metrics-framework` | This skill should be used when the user asks about "key startup metrics", "SaaS metrics", "CAC and LTV", "unit economics", "burn multiple", "rule of 40", "ma... | startup, metrics, framework | startup, metrics, framework, skill, should, used, user, asks, about, key, saas, cac |
+| `superpowers-tdd` | Applies tests-first discipline (red/green/refactor) and adds regression tests for bugs. Use when implementing features, fixing bugs, or refactoring. | superpowers, tdd | superpowers, tdd, applies, tests, first, discipline, red, green, refactor, adds, regression, bugs |
 | `systematic-debugging` | Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes | systematic, debugging | systematic, debugging, encountering, any, bug, test, failure, unexpected, behavior, before, proposing, fixes |
 | `tdd-workflow` | Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle. | tdd | tdd, test, driven, development, principles, red, green, refactor, cycle |
 | `tdd-workflows-tdd-cycle` | Use when working with tdd workflows tdd cycle | tdd, cycle | tdd, cycle, working |
@@ -660,7 +668,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `unit-testing-test-generate` | Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus. | unit, generate | unit, generate, testing, test, maintainable, tests, languages, strong, coverage, edge, case |
 | `web3-testing` | Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, ... | web3 | web3, testing, test, smart, contracts, comprehensively, hardhat, foundry, unit, tests, integration, mainnet |
 
-## workflow (16)
+## workflow (18)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -678,5 +686,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `kaizen` | Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss proce... | kaizen | kaizen, continuous, improvement, error, proofing, standardization, skill, user, wants, improve, code, quality |
 | `mermaid-expert` | Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling. Use PROACTIVELY for visual docu... | mermaid | mermaid, diagrams, flowcharts, sequences, erds, architectures, masters, syntax, all, diagram, types, styling |
 | `pdf-official` | Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs ... | pdf, official | pdf, official, manipulation, toolkit, extracting, text, tables, creating, new, pdfs, merging, splitting |
+| `superpowers-rest-automation` |  | superpowers, rest | superpowers, rest, automation |
+| `superpowers-workflow` |  | superpowers | superpowers |
 | `team-collaboration-issue` | You are a GitHub issue resolution expert specializing in systematic bug investigation, feature implementation, and collaborative development workflows. Your ... | team, collaboration, issue | team, collaboration, issue, github, resolution, specializing, systematic, bug, investigation, feature, collaborative, development |
 | `track-management` | Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan... | track | track, skill, creating, managing, working, conductor, tracks, logical, work, units, features, bugs |

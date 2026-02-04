@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-04T08:08:20.870Z",
+  "generatedAt": "2026-02-04T11:22:01.676Z",
   "bundles": {
     "core-dev": {
       "description": "Core development skills across languages, frameworks, and backend/frontend fundamentals.",
@@ -114,6 +114,7 @@
         "shopify-development",
         "slack-bot-builder",
         "stitch-ui-design",
+        "superpowers-python-automation",
         "swiftui-expert-skill",
         "systems-programming-rust-project",
         "tavily-web",
@@ -217,6 +218,7 @@
         "ssh-penetration-testing",
         "stride-analysis-patterns",
         "stripe-integration",
+        "superpowers-review",
         "terraform-specialist",
         "threat-mitigation-mapping",
         "threat-modeling-expert",
